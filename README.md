@@ -6,3 +6,4 @@
 4. separating.py
 5. cnn.py
 6. training.py
+7. model.py
