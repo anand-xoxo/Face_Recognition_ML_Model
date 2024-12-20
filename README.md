@@ -1,2 +1,7 @@
 # Face_Recognition_ML_Model
-This project features a custom-built face recognition model, developed from scratch without using pre-trained models. The model is designed to identify household members and distinguish them from unauthorized individuals, serving as the core of a home security system.
+## File Structure
+1. Installing Libraries and Mounting google drive
+2. Creating Dataset
+3. Separating Training Data and Testing Data
+4. Building the CNN Model
+5. 
