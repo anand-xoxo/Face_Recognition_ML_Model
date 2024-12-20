@@ -1,7 +1,7 @@
 # Face_Recognition_ML_Model
 ## File Structure
-1. Installing Libraries and Mounting google drive
-2. Creating Dataset
-3. Separating Training Data and Testing Data
-4. Building the CNN Model
-5. 
+1. install.py
+2. creatingdataset.py
+3. separating.py
+4. cnn.py
+5. training.py
