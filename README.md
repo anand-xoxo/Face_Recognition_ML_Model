@@ -1,7 +1,8 @@
 # Face_Recognition_ML_Model
 ## File Structure
-1. install.py
-2. creatingdataset.py
-3. separating.py
-4. cnn.py
-5. training.py
+1. README.md
+2. install.py
+3. creatingdataset.py
+4. separating.py
+5. cnn.py
+6. training.py
